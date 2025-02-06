@@ -6,4 +6,6 @@
 - Git Repository: Initialized and pushed
 - README.md: Created
 - Database Layer: Setup with Dexie.js
-- Next Steps: Implement seed management functionality
+- SeedManager Component: Implemented with seed listing
+- SeedForm Component: Added for seed creation
+- Next Steps: Implement data validation, error handling, and additional seed attributes
